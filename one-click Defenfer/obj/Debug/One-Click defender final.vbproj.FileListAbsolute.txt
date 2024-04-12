@@ -1,0 +1,33 @@
+C:\final year project\project\one-click defender final\Smart Protector 2019\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\One-Click defender final.vbproj.AssemblyReference.cache
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\One-Click defender final.vbproj.GenerateResource.cache
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\One-Click defender final.vbproj.CoreCompileInputs.cache
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\One-Click defender final.vbproj.CopyComplete
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.cleanup.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.close.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.danger.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.Form1.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.full_check.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.Resources.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.notification.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.prefetch.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.quick_scan.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.scan.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.settings.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.speedup.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.welcome.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\bin\Debug\OneClick_defender.exe.config
+C:\final year project\project\one-click defender final\Smart Protector 2019\bin\Debug\OneClick_defender.exe
+C:\final year project\project\one-click defender final\Smart Protector 2019\bin\Debug\OneClick_defender.pdb
+C:\final year project\project\one-click defender final\Smart Protector 2019\bin\Debug\OneClick_defender.xml
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.exe
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.xml
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.pdb
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.profile.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.register.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.trialVersion.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.userprofile.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\bin\Debug\viruslist.accdb
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.viruslist.resources
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\One-Click defender final.vbproj.ResolveComReference.cache
+C:\final year project\project\one-click defender final\Smart Protector 2019\obj\Debug\OneClick_defender.auth.resources
